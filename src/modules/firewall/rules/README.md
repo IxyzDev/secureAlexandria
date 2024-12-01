@@ -1,0 +1,1 @@
+# Lista de reglas basicas que un firewall debe tener
